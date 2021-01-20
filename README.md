@@ -60,6 +60,15 @@ These were then transformed to return the number of reviews, percent of the tota
 
 The two categorical vine tables were then joined on star rating and combined into one summary table to create a high level overview of the data:![summary](images/vine_summary.png)
 
+* Vine review count: 94
+* Non vine review count: 40,471
+* Vine 5 star review count: 48
+* Non vine 5 star review count: 15,663
+* Vine 5 star percent: 51%
+* Non vine 5 star percent: 39%
+
 ## Summary
 
-Positive bias refers to the human tendency to overestimate the possibility of positive (good) things happening in life or in research. In publication, it is the preference for publishing research that has a positive (eventful) outcome, than an uneventful or negative outcome. Our analysis was to determine if there is a positive bias for reviews in the vine program, and the conclusion is, slightly. I would say that  10% more 5 star reviews coming from the vine program is not enough to say there is a positive bias. The more concerning aspect that may lead to one thinking there is a positive bias is the fact that the people are given the products to review for free, and are chosen from a select few people. 
+Positive bias refers to the human tendency to overestimate the possibility of positive (good) things happening in life or in research. In publication, it is the preference for publishing research that has a positive (eventful) outcome, than an uneventful or negative outcome. Our analysis was to determine if there is a positive bias for reviews in the vine program, and the conclusion is, slightly. In addition, there are 9% more vine program 4 star reviews. I would say that  10% more 5 star reviews coming from the vine program is not enough to say there is a positive bias. The more concerning aspect that may lead to one thinking there is a positive bias is the fact that the people are given the products to review for free, and are chosen from a select few people. 
+
+An additional analysis that could be done would be to see how the review percentages vary from all of the different data sets. This would give a better understanding of the overall vine program, not just this subset of video game reviews.
